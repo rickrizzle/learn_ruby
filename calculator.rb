@@ -21,7 +21,7 @@ end
 def power(a,b)
     a ** b
 end
-# need to learn more about this "inject"
+#need to learn more about this "inject"
 def factorial(a)
     (1..a).inject(:*)||1
 end
